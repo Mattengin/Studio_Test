@@ -1,0 +1,37 @@
+*{
+  font-family: 'Rock Salt', cursive;
+}
+body{
+  background-color: rgb(70, 116, 78);
+}
+.rcorners {
+  background: linear-gradient(135deg, green, 60%, cyan);
+  border-radius: 25px;
+  border: 2px solid rgb(58, 139, 76);
+  padding: 20px; 
+  width: 50%;
+  height: 400px;    
+}
+
+.rcorners h1{
+  text-align: center;
+}
+
+.App {
+  text-align: center;
+}
+
+.llink{
+  float: right;
+  left: 1000px;
+  position: fixed;
+}
+
+
+
+
+.App-intro {
+  font-size: large;
+}
+
+
